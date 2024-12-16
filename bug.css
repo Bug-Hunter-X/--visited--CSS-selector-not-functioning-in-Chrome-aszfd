@@ -1,0 +1,1 @@
+The CSS rule `:visited` is unexpectedly not working as intended, specifically in Chrome.  The link color doesn't change after the link has been visited. Other browsers such as Firefox work as expected. The issue might stem from a conflict with another CSS rule or an incompatibility within Chrome's implementation, although the code itself seems correct. 
